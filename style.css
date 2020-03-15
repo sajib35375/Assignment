@@ -40,15 +40,18 @@ p{
     text-decoration: none;
 }
 .align{
-    width: 10%;
+    width: 15%;
     float: left;
-    margin-top: 400px;
+    
 }
+ section{
+     height: 500px;
+ } 
+ .third-part{
+     margin-left: 35%;
+ } 
  #murgi{
-     position: absolute;
-     height: 100%;
-     width: 50%;
-
- }   
+     margin-left: 10%;
+ }
 
 
