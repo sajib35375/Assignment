@@ -1,0 +1,54 @@
+h1{
+    color: brown;
+}
+p{
+    width: 300px;
+}
+.switch{
+    border: 5px solid brown;
+    background-color: brown;
+    color: black;
+    text-decoration: none;
+}
+.first-part{
+    width: 30%;
+    float: left;
+    background-image: url("personal-website/header-bg.png");
+    height: 500px;
+    
+}
+.image{
+    width: 100%;
+}
+.center{
+    margin-left: 30%;
+    
+}
+.second-part{
+    width: 50%;
+    float: left;
+    
+}
+.image1{
+    width: 45%;
+    margin-left: 45%;
+}
+.tere-liye{
+    border: 5px solid brown;
+    background-color: brown;
+    color: black;
+    text-decoration: none;
+}
+.align{
+    width: 10%;
+    float: left;
+    margin-top: 400px;
+}
+ #murgi{
+     position: absolute;
+     height: 100%;
+     width: 50%;
+
+ }   
+
+
